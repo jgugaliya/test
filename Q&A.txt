@@ -1,0 +1,9 @@
+Intelligent Chatbots, chethan Gowda person to contact
+Remote installation of the devices---> communication of ITK to enlighten to envoy communication
+EnHO, EN Manager, Enlighten Admin
+Whether we track data for AC Module third party like LG and Panasonic
+Whether Envoy and Enpower is needed in ACM
+MPPT where is this done?
+can envoy talk to third party micros, battery etc. plug and play system
+how grid knows which customer have given how much power?
+what is power control system
