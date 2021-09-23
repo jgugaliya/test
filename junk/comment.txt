@@ -1,0 +1,22 @@
+angle adjustments for panel placement for design and operation
+C&I--> Flat roofs so tilted panels for maximising panles placement
+8 or 9 envoyrs for large sites
+
+	
+maintenance 
+visual verification
+Presento presentation
+
+Futuristic idea can be 1 year horizon and above
+
+forecast topic
+1)Multi site forecasting already being done by DBU
+2)Basic POC done by Vidya, and wait for next version of hardware version
+3)use of Optimus
+
+four day forecast at 15 min intervals
+definition of accuracy is changing
+forecasting only power peaks
+probablistic forecast
+
+ 
